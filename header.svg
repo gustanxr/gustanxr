@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="384" viewBox="0 0 1280 384" role="img" aria-labelledby="title desc">
+  <title id="title">Gustavo — um novo capítulo em código</title>
+  <desc id="desc">Cabeçalho escuro com detalhes em verde-água, o nome Gustavo e um símbolo de código.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#111e29"/>
+      <stop offset="1" stop-color="#0b111a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.83" cy="0.4" r="0.65">
+      <stop stop-color="#163e43" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#0b111a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#73ead0"/>
+      <stop offset="1" stop-color="#77bcdf"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#6ebead" stroke-opacity="0.055"/>
+    </pattern>
+    <clipPath id="bounds"><rect width="1280" height="384" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="384" fill="url(#background)"/>
+    <rect width="1280" height="384" fill="url(#glow)"/>
+    <rect x="700" width="580" height="384" fill="url(#grid)"/>
+    <path d="M 64 0 H 1216" stroke="url(#accent)" stroke-width="4"/>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <circle cx="68" cy="70" r="4" fill="#73ead0"/>
+      <text x="86" y="75" font-size="13" letter-spacing="3.3" font-weight="600" fill="#acbfc6">ESTUDANTE · DESENVOLVIMENTO DE SOFTWARE</text>
+      <text x="62" y="206" font-size="100" font-weight="700" letter-spacing="-4" fill="#f0f6f8">Gustavo<tspan fill="#73ead0">.</tspan></text>
+      <text x="67" y="250" font-size="24" fill="#a8bac4">Um novo capítulo em código.</text>
+      <path d="M 68 301 H 101" stroke="#73ead0" stroke-width="2"/>
+      <text x="116" y="306" font-size="13" font-weight="500" letter-spacing="2.1" fill="#829ba8">@GUSTANXR</text>
+    </g>
+    <g transform="translate(1010 190)">
+      <circle r="130" fill="none" stroke="#86daca" stroke-opacity="0.10"/>
+      <circle r="103" fill="none" stroke="#86daca" stroke-opacity="0.20"/>
+      <circle r="78" fill="#122d34" stroke="#86daca" stroke-opacity="0.08"/>
+      <path d="M -42 -24 L -68 0 L -42 24 M 42 -24 L 68 0 L 42 24 M 17 -46 L -15 46" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="92" cy="-92" r="5" fill="#73ead0"/>
+      <circle cx="-83" cy="61" r="3" fill="#77bcdf"/>
+    </g>
+    <rect x="0.5" y="0.5" width="1279" height="383" rx="23.5" fill="none" stroke="#96bfc9" stroke-opacity="0.12"/>
+  </g>
+</svg>

@@ -1,17 +1,47 @@
-# Olá, eu sou o Gustavo! 👋
+<p align="center">
+  <img src="./assets/header.svg" alt="Gustavo — um novo capítulo em código" width="100%" />
+</p>
 
-Bem-vindo ao meu perfil! Estou começando minha jornada no desenvolvimento de software.
+<h2 align="center">Olá, eu sou o Gustavo.</h2>
 
-## 🎓 Sobre mim
+<p align="center">
+  Estou começando minha jornada no desenvolvimento de software.<br />
+  Este perfil acompanha meus primeiros passos na programação.
+</p>
 
-- Estou cursando **Engenharia de Software** e estou no **1º semestre**.
-- Atualmente, estou aprendendo **Java**. ☕
+<p align="center">
+  <a href="https://www.linkedin.com/in/gustavo-fiorillo-30b2b832b/"><strong>LinkedIn ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/gustanxr"><strong>GitHub ↗</strong></a>
+</p>
 
-## 💻 Aprendendo
+<br />
 
-![Java em aprendizado](https://img.shields.io/badge/Java-Em%20aprendizado-ED8B00?style=for-the-badge)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp; / &nbsp; Formação</h3>
+      <p><strong>Engenharia de Software</strong></p>
+      <p>Atualmente no <strong>1º semestre</strong> da graduação.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp; / &nbsp; Em aprendizado</h3>
+      <p><strong>☕ Java</strong></p>
+      <p>Aprendendo a linguagem e dando meus primeiros passos com código.</p>
+    </td>
+  </tr>
+</table>
 
-## 🤝 Vamos nos conectar?
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gustavo-fiorillo-30b2b832b/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustanxr)
+<h3 align="center">Áreas de interesse</h3>
+
+<p align="center">
+  <code>DevOps</code> &nbsp; <code>Engenharia de Software</code>
+</p>
+
+<br />
+
+<p align="center">
+  <sub>GUSTANXR &nbsp; · &nbsp; UMA LINHA DE CADA VEZ.</sub>
+</p>
