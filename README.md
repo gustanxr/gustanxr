@@ -10,9 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-fiorillo-30b2b832b/"><strong>LinkedIn ↗</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/gustanxr"><strong>GitHub ↗</strong></a>
+  <a href="https://www.linkedin.com/in/gustavo-fiorillo-30b2b832b/"><img src="./linkedin.svg" alt="LinkedIn" width="118" height="28" /></a>
+  <a href="https://github.com/gustanxr"><img src="./github.svg" alt="GitHub" width="102" height="28" /></a>
 </p>
 
 <br />
