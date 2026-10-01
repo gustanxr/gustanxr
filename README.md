@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Gustavo — um novo capítulo em código" width="100%" />
+  <img src="./header.svg" alt="Gustavo — um novo capítulo em código" width="100%" />
 </p>
 
 <h2 align="center">Olá, eu sou o Gustavo.</h2>
