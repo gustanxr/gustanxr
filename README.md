@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Gustavo! 👋
 
-<!--
-**gustanxr/gustanxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Estou começando minha jornada no desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🎓 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou cursando **Engenharia de Software** e estou no **1º semestre**.
+- Atualmente, estou aprendendo **Java**. ☕
+
+## 💻 Aprendendo
+
+![Java em aprendizado](https://img.shields.io/badge/Java-Em%20aprendizado-ED8B00?style=for-the-badge)
+
+## 🤝 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/gustavo-fiorillo-30b2b832b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustanxr)
